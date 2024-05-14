@@ -1,0 +1,6 @@
+﻿  exercitiu2.cpp
+C:\Users\timi_\Desktop\ITschool\Project1\Project1\exercitiu2.cpp(13,10): error C2601: 'isNoob': local function definitions are illegal
+  C:\Users\timi_\Desktop\ITschool\Project1\Project1\exercitiu2.cpp(7,12):
+  this line contains a '{' which has not yet been matched
+  
+C:\Users\timi_\Desktop\ITschool\Project1\Project1\exercitiu2.cpp(7,12): error C1075: '{': no matching token found
